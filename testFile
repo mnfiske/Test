@@ -1,0 +1,15 @@
+#include <iostream>
+
+using std::cin;
+using std::cout;
+
+int main()
+{
+int variable;
+
+cout << "Enter a variable. \n"
+
+cin >> variable;
+
+return 0;
+}
