@@ -1,2 +1,4 @@
 # Test
-Testing out GitHub features.
+Testing out some GitHub features.
+
+Getting familiar with the interface.
